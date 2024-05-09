@@ -1,4 +1,4 @@
 *.php linguist-detectable=true
-*.js linguist-detectable=true
-*.html linguist-detectable=ture
-*.scss linguist-detectable=ture
+*.js linguist-detectable=false
+*.html linguist-detectable=false
+*.scss linguist-detectable=false
