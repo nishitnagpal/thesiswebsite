@@ -1,2 +1,4 @@
-* linguist-vendored
-*.php linguist-vendored=false
+*.php linguist-detectable=true
+*.js linguist-detectable=true
+*.html linguist-detectable=true
+*.php linguist-language=PHP
